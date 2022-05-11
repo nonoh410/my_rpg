@@ -1,2 +1,6 @@
 # my_rpg
-This is an Epitech Project in Graphical Programming to make a RPG
+warning This project is archived and is no longer maintained.
+
+MyRPG is the final graphic project of the first year at Epitech. The goal is to create a role playing video game.
+
+To launch the game : make && ./my_rpg
